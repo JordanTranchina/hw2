@@ -1,4 +1,4 @@
-# hw1
+# hw2
  KIEI 451 - HW 2
 
  This is a website I created for the marketing purposes of my startup, PlantsAreUs.
