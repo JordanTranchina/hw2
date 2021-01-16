@@ -3,4 +3,4 @@
 
  This is a website I created for the marketing purposes of my startup, PlantsAreUs.
 
- Netlify Link: 
+ Netlify Link: https://lucid-volhard-47fbe9.netlify.app/ 
